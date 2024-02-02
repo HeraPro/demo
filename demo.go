@@ -1,7 +1,7 @@
-package main
+package demo
 
 import "time"
 
-func main() {
+func Demo() {
 	time.Sleep(time.Minute)
 }
